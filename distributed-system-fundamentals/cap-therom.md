@@ -1,4 +1,4 @@
-# CAP Therom
+# CAP Theorem
 
 {% hint style="info" %}
 **Good to know:** TODO
